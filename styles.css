@@ -35,6 +35,11 @@ h1 {
   font-size: 2rem;
   text-align: center;
 }
+
+h2{
+  text-align: center;
+}
+
 h3{
   color: #B70404;
   margin-left: 15px;
@@ -43,9 +48,15 @@ h3{
 
 .box2{
   background-color: #98EECC;
-  padding: 2.5px;
+  padding: 5px;
   position: relative;
+  left: 25px;
+  
 
+}
+
+.map{
+  margin: 0 auto;
 }
 
 .link{
@@ -56,4 +67,5 @@ h3{
 
 footer{
   background-color: #79E0EE;
+  
 }
