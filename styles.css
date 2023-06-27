@@ -27,7 +27,7 @@ main {
 }
 
 .img{
-  
+  margin: 0 auto;
 }
 
 h1 {
@@ -37,16 +37,21 @@ h1 {
 }
 h3{
   color: #B70404;
+  margin-left: 15px;
+
 }
 
 .box2{
   background-color: #98EECC;
   padding: 2.5px;
+  position: relative;
+
 }
 
 .link{
   position: absolute;
-  left: 280px;
+  left: 300px;
+ 
 }
 
 footer{
