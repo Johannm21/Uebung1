@@ -1,25 +1,54 @@
 * {
   box-sizing: border-box;
+  
 }
+
+header{
+  text-align: block;
+  margin-left: 25px;
+  
+}
+
+p{
+  text-align: block;
+  margin-left: 25px;
+}
+
 
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
   color: black;
-  background-color: white;
+  background-color: #FBFFDC;
 }
 
 main {
   padding: 1rem;
 }
 
+.img{
+  
+}
+
 h1 {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 2rem;
   text-align: center;
+}
+h3{
+  color: #B70404;
 }
 
 .box2{
-  background-color: #FBFFDC;
-  
+  background-color: #98EECC;
+  padding: 2.5px;
+}
+
+.link{
+  position: absolute;
+  left: 280px;
+}
+
+footer{
+  background-color: #79E0EE;
 }
