@@ -8,14 +8,19 @@ header{
 }
 
 p{
-  text-align: block;
-  margin-left: 25px;
+  text-align: center;
+  color: #393E46;
 }
 
 body {
   font-family: system-ui, sans-serif;
   color: black;
   background-color: #FBFFDC;
+}
+
+li{
+  margin-left: 12px;
+  color: #393E46;
 }
 
 img{
@@ -32,6 +37,9 @@ h1 {
   font-weight: bold;
   font-size: 2rem;
   text-align: center;
+  padding: 5px;
+  border: solid #D0F5BE;
+  background-color: #D0F5BE;
 }
 
 h2{
@@ -40,13 +48,7 @@ h2{
 
 h3{
   color: #B70404;
-  margin-left: 15px;
-}
-
-div{
-  padding: 5px;
-  border: 50px solid #D0F5BE;
-  background-color: #D0F5BE;
+  margin-left: 25px;
 }
 
 .link{
