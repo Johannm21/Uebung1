@@ -43,6 +43,11 @@ h3{
   margin-left: 15px;
 }
 
+div{
+  padding: 5px;
+  border: 50px solid #D0F5BE;
+  background-color: #D0F5BE;
+}
 
 .link{
   position: absolute;
